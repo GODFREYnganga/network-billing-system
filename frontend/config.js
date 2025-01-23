@@ -1,0 +1,1 @@
+const BACKEND_URL = "https://dazzling-exploration-production.up.railway.app/";
